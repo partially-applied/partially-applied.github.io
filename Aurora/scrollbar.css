@@ -1,0 +1,19 @@
+
+::-webkit-scrollbar
+{
+      width: 4px;  /* for vertical scrollbars */
+      height: 4px; /* for horizontal scrollbars */
+      padding-right: 10px;
+}
+
+::-webkit-scrollbar-track
+{
+      background: rgba(0, 0, 0, 0);
+}
+
+::-webkit-scrollbar-thumb
+{
+      background: rgba(74, 74, 74, 0.4);
+      background-clip: padding-box;
+}
+    
